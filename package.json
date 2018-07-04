@@ -1,0 +1,14 @@
+{
+  "name": "open-chat-backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "index.js",
+  "repository": "https://github.com/Labeca/open-chat-backend.git",
+  "author": "Arthur Labeca <arthurmlabeca@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^17.5.2",
+    "joi": "^13.4.0",
+    "mongodb": "^3.1.0"
+  }
+}
