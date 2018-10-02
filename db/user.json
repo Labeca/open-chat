@@ -1,0 +1,17 @@
+{
+  "_id": "hash",
+  "fullName": "primeiro nome",
+  "displayName": "sobrenome",
+  "phoneNumber": "",
+  "jobTitle": "",
+  "picture": "path",
+  "email": "email",
+  "gitHub": "",
+  "linkedin": "",
+  "status": "online - offline",
+  "password": "Criptografa com chave publica privada",
+  "oauthKey": "hashKey",
+  "lastUpdate": "date",
+  "lastLogin": "date",
+  "createdAt": ""
+}

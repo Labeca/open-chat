@@ -1,0 +1,16 @@
+{
+  "_id": "Campo nativo do mongo",
+  "fromUser": "hash",
+  "destination": {},
+  "text": "texto da msg",
+  "reactions": [
+    {
+      "_id": "Campo nativo do mongo",
+      "name": "Valor do emoticon",
+      "total": 0
+    }
+  ],
+  "thread": [],
+  "createdAt": "date",
+  "lastUpdate": "date",
+}

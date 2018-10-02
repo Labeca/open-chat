@@ -2,13 +2,22 @@
   "name": "open-chat-backend",
   "version": "1.0.0",
   "description": "backend",
+  "scripts": {
+    "start-db": "mongod --dbpath /Users/arthurlabeca/mongodb/data",
+    "start": "node index.js"
+  },
   "main": "index.js",
   "repository": "https://github.com/Labeca/open-chat-backend.git",
   "author": "Arthur Labeca <arthurmlabeca@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "hapi": "^17.5.2",
-    "joi": "^13.4.0",
+    "blipp": "^3.0.0",
+    "boom": "^7.2.0",
+    "glue": "^5.0.0",
+    "good": "^8.1.1",
+    "good-console": "^7.1.0",
+    "hapi": "^17.6.0",
+    "joi": "^13.7.0",
     "mongodb": "^3.1.0"
   }
 }
